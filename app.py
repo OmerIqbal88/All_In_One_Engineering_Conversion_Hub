@@ -1,6 +1,7 @@
 # ----------------- STREAMLIT APP -----------------
 import streamlit as st
 import sympy as sp
+import math
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
