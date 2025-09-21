@@ -1,4 +1,5 @@
 streamlit
 math
+pyngrok
 ngrok
 sympy
